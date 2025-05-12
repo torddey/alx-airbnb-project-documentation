@@ -1,0 +1,1 @@
+This user stories translates the use-case diagram into an interactive story 
